@@ -96,18 +96,6 @@ body {
     background-color: #000;
 }
 
-@keyframes fadeIn {
-    0% {
-        opacity: 0;
-        transform: translateY(-50px);
-    }
-
-    100% {
-        opacity: 1;
-        transform: translateY(-30px);
-    }
-}
-
 .about {
     padding: 50px 20px;
     background-color: #f3f3f3;
